@@ -83,7 +83,7 @@ const Portfolio = () => {
             <div className="videocontainer">
               <iframe
                 className="youtube-video"
-                src="https://www.youtube.com/embed/AqcjdkPMPJA?enablejsapi=1&version=3&playerapiid=ytplayer"
+                src="https://www.youtube.com/embed/GTZXHqR3MDM?enablejsapi=1&version=3&playerapiid=ytplayer"
                 allowFullScreen=""
               />
             </div>
@@ -91,32 +91,32 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Youtube Project</h4>
+            <h4>Odwag Product Animation</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Short Film</span>
+                  <span>3D Animation</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Videohive</span>
+                  <span>Odwag India</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>8 months</span>
+                  <span>1 month</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>After Effects</span>
+                  <span>After Effects, Blender</span>
                 </li>
               </ul>
             </div>
