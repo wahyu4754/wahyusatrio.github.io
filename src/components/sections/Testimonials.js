@@ -7,14 +7,12 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " I worked with Steven, he was very helpful and fast to respond
-                to my inquiry to help with Wordpress website issues and all
-                technical problems. "
+                " The designer delivered impressive animations! Creative and detailed work. Perfectly fitting for my project. Communication went smoothly, quick professional adjustments. Thanks! "
               </span>
-              <span className="person">Jasmin Aniston</span>
-              <span className="job">Director - Adobe</span>
+              <span className="person">Saif Ghazi</span>
+              <span className="job">Founder & Co-Founder Pop It Netherlands</span>
             </p>
-            <img src="assets/testimonials/testimonial-1.jpg" alt="" />
+            <img src="https://media.licdn.com/dms/image/D4E03AQGaBOd6MMUUVw/profile-displayphoto-shrink_100_100/0/1690352856626?e=1696464000&v=beta&t=MqFf2IG06VL1ePZuifDWkLMVzQY4SL1NwaB-odXe1Qo" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}
@@ -23,14 +21,12 @@ const Testimonials = () => {
           <div>
             <p>
               <span className="quote">
-                " Steven is a great help managing a very out of date website.
-                Everything we ask him to do is done quickly and efficiently, we
-                would be lost without him. "
+                " Will work with this seller again! Great Experience! Thank you! "
               </span>
-              <span className="person">Mark Eliott</span>
-              <span className="job">Manager - Envato</span>
+              <span className="person">Mariah Emery</span>
+              <span className="job">Owner Emery Cosmetic U.S.</span>
             </p>
-            <img src="assets/testimonials/testimonial-2.jpg" alt="" />
+            <img src="assets/logos/EC.jpg" alt="" />
           </div>
         </div>
         {/* TESTIMONIAL ITEM ENDS */}

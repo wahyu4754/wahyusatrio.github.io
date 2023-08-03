@@ -5,7 +5,7 @@ const Clients = () => {
   return (
     <section className="clients">
       <div className="clients-container animated-layer fade-in-right-animation fadeInUp wow">
-        <h3>My Clients</h3>
+        <h3>Work with</h3>
         <Swiper
           {...salimovSlider.clients}
           className="swiper swiper-clients fadeInUp wow"
@@ -14,13 +14,13 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/themeforest-dark-background.png"
+                src="assets/logos/sctv.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/photodune-dark-background.png"
+                src="assets/logos/logo-it.png"
                 alt="client"
               />
             </div>
@@ -30,13 +30,13 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/graphicriver-dark-background.png"
+                src="assets/logos/INDOSIAR_Logo.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/codecanyon-dark-background.png"
+                src="assets/logos/Pertamina.png"
                 alt="client"
               />
             </div>
@@ -46,66 +46,19 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/logos/audiojungle-dark-background.png"
+                src="assets/logos/Bank_Mandiri.png"
                 alt="client"
               />
             </div>
             <div>
               <img
-                src="assets/logos/activeden-dark-background.png"
+                src="assets/logos/Bioderma-Logo.png"
                 alt="client"
               />
             </div>
           </SwiperSlide>
           {/* SWIPER ITEM ENDS */}
-          {/* SWIPER ITEM STARTS */}
-          <SwiperSlide className="swiper-slide">
-            <div>
-              <img
-                src="assets/logos/3docean-dark-background.png"
-                alt="client"
-              />
-            </div>
-            <div>
-              <img
-                src="assets/logos/themeforest-dark-background.png"
-                alt="client"
-              />
-            </div>
-          </SwiperSlide>
-          {/* SWIPER ITEM ENDS */}
-          {/* SWIPER ITEM STARTS */}
-          <SwiperSlide className="swiper-slide">
-            <div>
-              <img
-                src="assets/logos/activeden-dark-background.png"
-                alt="client"
-              />
-            </div>
-            <div>
-              <img
-                src="assets/logos/audiojungle-dark-background.png"
-                alt="client"
-              />
-            </div>
-          </SwiperSlide>
-          {/* SWIPER ITEM ENDS */}
-          {/* SWIPER ITEM STARTS */}
-          <SwiperSlide className="swiper-slide">
-            <div>
-              <img
-                src="assets/logos/graphicriver-dark-background.png"
-                alt="client"
-              />
-            </div>
-            <div>
-              <img
-                src="assets/logos/codecanyon-dark-background.png"
-                alt="client"
-              />
-            </div>
-          </SwiperSlide>
-          {/* SWIPER ITEM ENDS */}
+          
           <div className="swiper-pagination" />
         </Swiper>
       </div>

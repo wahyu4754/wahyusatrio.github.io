@@ -52,23 +52,23 @@ const Contact = () => {
             <span className="small-text">follow me</span>
             <ul className="social">
               <li>
-                <a href="#">
+                <a href="https://github.com/wahyu4754">
                   <i className="fa-brands fa-github" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-twitter" />
+                <a href="https://instagram.com/wahyusatrio.exe">
+                  <i className="fa-brands fa-instagram" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-dribbble" />
+                <a href="https://behance.net/wahyusatrio">
+                  <i className="fa-brands fa-behance" />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-facebook" />
+                <a href="https://www.linkedin.com/in/wahyusatrio/">
+                  <i className="fa-brands fa-linkedin" />
                 </a>
               </li>
             </ul>

@@ -7,7 +7,7 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Steven Walker</span>
+        <span>© {new Date().getFullYear()} Wahyu Satrio</span>
         <span>
           Designed By{" "}
           <a
@@ -19,23 +19,23 @@ const Copyright = () => {
         </span>
         <ul>
           <li>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/wahyusatrio/">
+              <i className="fa-brands fa-linkedin" />
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/wahyusatrio.exe">
+              <i className="fa-brands fa-instagram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://behance.net/wahyusatrio">
+              <i className="fa-brands fa-behance" />
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/wahyu4754">
               <i className="fa-brands fa-github" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-twitter" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-dribbble" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa-brands fa-facebook" />
             </a>
           </li>
         </ul>
