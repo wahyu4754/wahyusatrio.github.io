@@ -12,7 +12,7 @@ const Home = () => {
             <span className="position-relative">
               <span className="animated-layer">I am</span>
               <span className="intro animated-layer">
-                Fall in Love with Motion and Graphic Designer
+                Fall in Love with Motion and Graphic Design
               </span>
             </span>
             <span>
