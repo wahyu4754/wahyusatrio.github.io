@@ -267,7 +267,7 @@ const About = () => {
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
-                <div className="education">
+                <div className="experience">
                   <h4>Head of Graphic Design</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
@@ -284,7 +284,7 @@ const About = () => {
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
-                <div className="education">
+                <div className="experience">
                   <h4>3D & Motion Freelance</h4>
                   <p>
                     <i className="fa-regular fa-clock" />

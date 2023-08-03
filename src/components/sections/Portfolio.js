@@ -138,7 +138,7 @@ const Portfolio = () => {
               className="swiper swiper-portfolio-item"
             >
               <SwiperSlide className="swiper-slide">
-                <img src="assets/portfolio/project-2.jpg" title="img" />
+                <img src="assets/portfolio/NAUTIKAL.jpg" title="img" />
               </SwiperSlide>
               <SwiperSlide className="swiper-slide">
                 <img src="assets/portfolio/project-3.jpg" title="img" />
@@ -152,32 +152,32 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Slider Project</h4>
+            <h4>PT. Pesona Nautikal Indonesia</h4>
             <div>
               <ul>
                 <li>
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Mobile App</span>
+                  <span>Visual Brand Design</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Codecanyon</span>
+                  <span>PT. Pesona Nautikal Indonesia</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>1 months</span>
                 </li>
                 <li>
                   <span>
-                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                    <i className="fa-solid fa-code-branch" /> Software :
                   </span>
-                  <span>React JS</span>
+                  <span>Adobe Illustrator</span>
                 </li>
               </ul>
             </div>
