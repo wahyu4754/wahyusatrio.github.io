@@ -40,7 +40,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>SCTV Music Awards 2023</h4>
+            <h4>SCTV Music Awards</h4>
             <div>
               <ul>
                 <li>
@@ -93,7 +93,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Odwag Product Animation</h4>
+            <h4>Odwag</h4>
             <div>
               <ul>
                 <li>
