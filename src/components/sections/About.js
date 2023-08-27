@@ -220,7 +220,7 @@ const About = () => {
                   <h4>Motion Designer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2023 - Now</span>
+                    <span>Feb - August 2023</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
