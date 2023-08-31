@@ -32,59 +32,6 @@ const Portfolio = () => {
             <div className="videocontainer">
               <iframe
                 className="youtube-video"
-                src="https://www.youtube.com/embed/uaQ0UYHbqPQ?enablejsapi=1&version=3&playerapiid=ytplayer"
-                allowFullScreen=""
-              />
-            </div>
-          </div>
-          {/* ITEM MAIN CONTENT ENDS */}
-          {/* ITEM DETAILS STARTS */}
-          <div className="details">
-            <h4>SCTV Music Awards 2023</h4>
-            <div>
-              <ul>
-                <li>
-                  <span>
-                    <i className="fa-regular fa-file-lines" /> Project :
-                  </span>
-                  <span>Broadcast Package</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-regular fa-user" /> Work with :
-                  </span>
-                  <span>SCTV</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-regular fa-hourglass" /> Duration :
-                  </span>
-                  <span>1 month</span>
-                </li>
-                <li>
-                  <span>
-                    <i className="fa-solid fa-code-branch" /> Software :
-                  </span>
-                  <span>After Effects, Blender</span>
-                </li>
-              </ul>
-            </div>
-            <a href="https://www.behance.net/gallery/171207321/SCTV-Music-Awards-2023-Bumper-Nominee" target="_blank" className="custom-btn">
-              <span>
-                preview <i className="fa-solid fa-arrow-up-right-from-square" />
-              </span>
-            </a>
-          </div>
-          {/* ITEM DETAILS ENDS */}
-        </SwiperSlide>
-        {/* PORTFOLIO ITEM ENDS */}
-        {/* PORTFOLIO ITEM STARTS */}
-        <SwiperSlide className="single-item swiper-slide">
-          {/* ITEM MAIN CONTENT STARTS */}
-          <div className="main-content">
-            <div className="videocontainer">
-              <iframe
-                className="youtube-video"
                 src="https://www.vidio.com/embed/7633551-malam-puncak-hut-sctv-33xtraordinary-part-2?autoplay=true&player_only=true&mute=false"
                 allowFullScreen=""
               />
@@ -119,6 +66,59 @@ const Portfolio = () => {
                     <i className="fa-solid fa-code-branch" /> Software :
                   </span>
                   <span>After Effects, Blender, Cinema4D</span>
+                </li>
+              </ul>
+            </div>
+            <a href="https://www.behance.net/gallery/178729915/SCTV-33-XtraOrdinary-Broadcast-Package" target="_blank" className="custom-btn">
+              <span>
+                preview <i className="fa-solid fa-arrow-up-right-from-square" />
+              </span>
+            </a>
+          </div>
+          {/* ITEM DETAILS ENDS */}
+        </SwiperSlide>
+        {/* PORTFOLIO ITEM ENDS */}
+        {/* PORTFOLIO ITEM STARTS */}
+        <SwiperSlide className="single-item swiper-slide">
+          {/* ITEM MAIN CONTENT STARTS */}
+          <div className="main-content">
+            <div className="videocontainer">
+              <iframe
+                className="youtube-video"
+                src="https://www.youtube.com/embed/uaQ0UYHbqPQ?enablejsapi=1&version=3&playerapiid=ytplayer"
+                allowFullScreen=""
+              />
+            </div>
+          </div>
+          {/* ITEM MAIN CONTENT ENDS */}
+          {/* ITEM DETAILS STARTS */}
+          <div className="details">
+            <h4>SCTV Music Awards 2023</h4>
+            <div>
+              <ul>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-file-lines" /> Project :
+                  </span>
+                  <span>Broadcast Package</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-user" /> Work with :
+                  </span>
+                  <span>SCTV</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-hourglass" /> Duration :
+                  </span>
+                  <span>1 month</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-solid fa-code-branch" /> Software :
+                  </span>
+                  <span>After Effects, Blender</span>
                 </li>
               </ul>
             </div>
